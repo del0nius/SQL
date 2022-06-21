@@ -1,2 +1,2 @@
 # SQL
-Homework for QA Engineer course by V. Ksendzov
+Homework 8, 9 for QA Engineer course by V. Ksendzov
